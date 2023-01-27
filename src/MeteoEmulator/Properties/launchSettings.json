@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MeteoEmulator": {
+      "commandName": "Project",
+      "commandLineArgs": "--url http://localhost:55355 --sleep 5 --instance meteo1 --stability 3 --with-noise"
+    }
+  }
+}
