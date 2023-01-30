@@ -2,7 +2,7 @@
 
 namespace MeteoEmulator.Models
 {
-    internal class MeteoDataPackage
+    public class MeteoDataPackage
     {
         public long DataPackageID { get; set; }
         public string EmulatorID { get; set; }

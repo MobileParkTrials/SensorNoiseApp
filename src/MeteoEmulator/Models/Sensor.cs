@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MeteoEmulator.Models
 {
-    internal class Sensor
+    public class Sensor
     {
         public string SensorName { get; set; }
         public string SensorShortName { get; set; }
